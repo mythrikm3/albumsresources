@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'albumresourceokta'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_42C5B90EAEB743E898C8C1BD0478F53F }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_23A106263ECD4DF1969A696AB8915304 }}
           package: '*.jar'
